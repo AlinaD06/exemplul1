@@ -1,0 +1,36 @@
+
+
+body{
+    background-color: antiquewhite;
+}
+
+
+h1 {
+    color: darkgreen;
+    font-size: 2em;
+}
+
+h3{
+    text-decoration: underline;
+    text-decoration-color: cadetblue;
+    text-decoration-style: dotted;
+}
+
+h4{
+    margin-top: 2.5em ;
+    color: brown;
+}
+
+p{
+    font-weight: lighter;
+    font-size: 1.2em;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+a:hover {
+    text-decoration: underline;
+    color: lightgreen;
+
+}
